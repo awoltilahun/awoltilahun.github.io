@@ -1,6 +1,9 @@
 google.com, pub-9678232109126473, DIRECT, f08c47fec0942fa0
 startapp.com, 209129161, DIRECT, 3b83e2f96e1e85c5
 
+# InMobi
+inmobi.com, 66cb4b7afebf4c9eb2197faea13072ed, DIRECT, 83e75a7ae333ca9d
+
 # Start.io (formerly StartApp) authorized sellers
 start.io, 116032510, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
